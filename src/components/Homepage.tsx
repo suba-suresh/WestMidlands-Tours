@@ -14,21 +14,21 @@ const Homepage: React.FC<HomepageProps> = ({ onBooking, onViewAttractions }) => 
     {
       name: "Shakespeare's Birthplace",
       location: "Stratford-upon-Avon",
-      image: "https://images.pexels.com/photos/4825724/pexels-photo-4825724.jpeg",
+      image: "https://upload.wikimedia.org/wikipedia/commons/5/5b/William_Shakespeare_statue_on_Henley_Street%2C_Stratford-upon-Avon_%2850779779732%29.jpg",
       rating: 4.8,
       price: "from £15"
     },
     {
       name: "Warwick Castle",
       location: "Near Leamington Spa",
-      image: "https://images.pexels.com/photos/2577274/pexels-photo-2577274.jpeg",
+      image: "https://www.droneadventure.co.uk/wp-content/uploads/2024/05/war4-1600x829.jpg",
       rating: 4.9,
       price: "from £25"
     },
     {
       name: "Cadbury World",
       location: "Birmingham",
-      image: "https://images.pexels.com/photos/3754208/pexels-photo-3754208.jpeg",
+      image: "https://berkshiremummies.co.uk/wp-content/uploads/2023/10/Cadbury-World-1-e1700570117131.jpg",
       rating: 4.7,
       price: "from £18"
     }
