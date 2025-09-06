@@ -19,8 +19,8 @@ const AttractionsGrid: React.FC<AttractionsGridProps> = ({ onBooking }) => {
       budget: true,
       description: "Discover world-class art collections and Birmingham's rich industrial heritage",
       images: [
-        "",
-        "https://images.pexels.com/photos/1319694/pexels-photo-1319694.jpeg"
+        "https://museumsandheritage.com/wp-content/uploads/2020/09/BMAG-industrial-gallery-view-c-Birmingham-Museum-and-Art-Gallery.jpg",
+        "https://stclientsuks.blob.core.windows.net/media-cache-prod/2/a/c/b/2/8/2acb287c0023406bc5fa281baedb8fd6d7913a40.webp"
       ],
       hours: "10:00 - 17:00",
       highlights: ["Pre-Raphaelite paintings", "Ancient Egyptian artifacts", "Local history exhibits"]
@@ -35,8 +35,8 @@ const AttractionsGrid: React.FC<AttractionsGridProps> = ({ onBooking }) => {
       budget: true,
       description: "Interactive chocolate experience showcasing Cadbury's sweet history",
       images: [
-        "https://images.pexels.com/photos/3754208/pexels-photo-3754208.jpeg",
-        "https://images.pexels.com/photos/4958743/pexels-photo-4958743.jpeg"
+        "https://berkshiremummies.co.uk/wp-content/uploads/2023/10/Cadbury-World-1-e1700570117131.jpg",
+        "https://live.staticflickr.com/706/22698802806_eb3b18b162_b.jpg"
       ],
       hours: "10:00 - 16:00",
       highlights: ["Chocolate making demonstrations", "Free samples", "4D cinema experience"]
@@ -52,7 +52,7 @@ const AttractionsGrid: React.FC<AttractionsGridProps> = ({ onBooking }) => {
       description: "Step into the world of William Shakespeare at his childhood home",
       images: [
         "https://www.londontoolkit.com/v1/Images/stratford-shakespeare-birthplace.png",
-        "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg"
+        "https://upload.wikimedia.org/wikipedia/commons/5/5b/William_Shakespeare_statue_on_Henley_Street%2C_Stratford-upon-Avon_%2850779779732%29.jpg"
       ],
       hours: "09:00 - 17:00",
       highlights: ["Tudor architecture", "Original manuscripts", "Beautiful gardens"]
@@ -67,8 +67,8 @@ const AttractionsGrid: React.FC<AttractionsGridProps> = ({ onBooking }) => {
       budget: false,
       description: "World-renowned theatre hosting the finest Shakespeare performances",
       images: [
-        "https://images.pexels.com/photos/109669/pexels-photo-109669.jpeg",
-        "https://images.pexels.com/photos/2728434/pexels-photo-2728434.jpeg"
+        "https://upload.wikimedia.org/wikipedia/commons/c/cb/Royal_Shakespeare_Theatre_Stratford_upon_Avon_%28crop%29.jpg",
+        "https://www.burohappold.com/wp-content/uploads/2017/03/RST_01s_RSC-and-Peter-Cook.jpg"
       ],
       hours: "Show times vary",
       highlights: ["World-class performances", "Riverside location", "Behind-scenes tours"]
@@ -83,8 +83,8 @@ const AttractionsGrid: React.FC<AttractionsGridProps> = ({ onBooking }) => {
       budget: false,
       description: "Medieval castle with 1,000 years of history and spectacular shows",
       images: [
-        "https://images.pexels.com/photos/2577274/pexels-photo-2577274.jpeg",
-        "https://images.pexels.com/photos/1566982/pexels-photo-1566982.jpeg"
+        "https://www.droneadventure.co.uk/wp-content/uploads/2024/05/war4-1600x829.jpg",
+        "https://www.visitwarwick.co.uk/wp-content/uploads/2023/03/Aeiral.jpg"
       ],
       hours: "10:00 - 18:00",
       highlights: ["Medieval tournaments", "Castle dungeons", "Falconry displays"]
@@ -99,8 +99,8 @@ const AttractionsGrid: React.FC<AttractionsGridProps> = ({ onBooking }) => {
       budget: true,
       description: "Modern cathedral beside medieval ruins, symbol of reconciliation",
       images: [
-        "https://images.pexels.com/photos/3586966/pexels-photo-3586966.jpeg",
-        "https://images.pexels.com/photos/1662159/pexels-photo-1662159.jpeg"
+        "https://warksbells.co.uk/wp-content/uploads/2021/07/cathedral.jpg",
+        "https://www.stace.co.uk/wp-content/uploads/2019/11/Coventry-Cathedral-Image-1-820x380.jpg"
       ],
       hours: "09:00 - 17:00",
       highlights: ["Modern architecture", "Historic ruins", "Stained glass windows"]
@@ -115,8 +115,8 @@ const AttractionsGrid: React.FC<AttractionsGridProps> = ({ onBooking }) => {
       budget: true,
       description: "Contemporary art gallery with diverse exhibitions and local history",
       images: [
-        "https://images.pexels.com/photos/1839919/pexels-photo-1839919.jpeg",
-        "https://images.pexels.com/photos/1194420/pexels-photo-1194420.jpeg"
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/fc/39/5b/university-square-entrance.jpg?w=1200&h=-1&s=1",
+        "https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,f_jpg,h_822,q_75,w_1220/https://entiretydmsmedia.newmindmedia.com/wsimgs/100_1__211085690.png"
       ],
       hours: "10:00 - 16:00",
       highlights: ["Contemporary art", "Local history", "Interactive exhibits"]
@@ -131,8 +131,8 @@ const AttractionsGrid: React.FC<AttractionsGridProps> = ({ onBooking }) => {
       budget: true,
       description: "Elegant Regency building housing art gallery and assembly rooms",
       images: [
-        "https://images.pexels.com/photos/1438761/pexels-photo-1438761.jpeg",
-        "https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg"
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/58/f4/59/royal-pump-rooms.jpg?w=900&h=500&s=1",
+        "https://lh5.googleusercontent.com/p/AF1QipPTdu8krL88-xhVaunUgE_1ttXAqvYMw08beZMy"
       ],
       hours: "10:30 - 17:00",
       highlights: ["Regency architecture", "Local art", "Historic spa heritage"]
@@ -147,8 +147,8 @@ const AttractionsGrid: React.FC<AttractionsGridProps> = ({ onBooking }) => {
       budget: false,
       description: "Step back in time to experience life in industrial Britain",
       images: [
-        "https://images.pexels.com/photos/2387873/pexels-photo-2387873.jpeg",
-        "https://images.pexels.com/photos/1462983/pexels-photo-1462983.jpeg"
+        "https://whattheredheadsaid.com/wp-content/uploads/2021/10/IMG_7093.jpg",
+        "https://www.eastonsholidays.co.uk/images/itinerary/blackcountrylivingmuseumimagebyphilsangwell.jpg"
       ],
       hours: "10:00 - 17:00",
       highlights: ["Victorian village", "Historic demonstrations", "Underground coal mine"]
@@ -163,8 +163,8 @@ const AttractionsGrid: React.FC<AttractionsGridProps> = ({ onBooking }) => {
       budget: false,
       description: "Underwater adventure with sharks, rays, and tropical marine life",
       images: [
-        "https://images.pexels.com/photos/3389536/pexels-photo-3389536.jpeg",
-        "https://images.pexels.com/photos/2108845/pexels-photo-2108845.jpeg"
+        "https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,f_jpg,h_822,q_75,w_1220/https://entiretydmsmedia.newmindmedia.com/wsimgs/sealife_centre_1951480762.jpg",
+        "https://www.visitsealife.com//birmingham/media/db3j2bbl/rescue-facility.jpg"
       ],
       hours: "10:00 - 18:00",
       highlights: ["360° ocean tunnel", "Shark encounters", "Interactive touch pools"]
