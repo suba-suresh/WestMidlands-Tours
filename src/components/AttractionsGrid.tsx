@@ -19,7 +19,7 @@ const AttractionsGrid: React.FC<AttractionsGridProps> = ({ onBooking }) => {
       budget: true,
       description: "Discover world-class art collections and Birmingham's rich industrial heritage",
       images: [
-        "https://images.pexels.com/photos/1004584/pexels-photo-1004584.jpeg",
+        "",
         "https://images.pexels.com/photos/1319694/pexels-photo-1319694.jpeg"
       ],
       hours: "10:00 - 17:00",
@@ -51,7 +51,7 @@ const AttractionsGrid: React.FC<AttractionsGridProps> = ({ onBooking }) => {
       budget: true,
       description: "Step into the world of William Shakespeare at his childhood home",
       images: [
-        "https://images.pexels.com/photos/4825724/pexels-photo-4825724.jpeg",
+        "https://www.londontoolkit.com/v1/Images/stratford-shakespeare-birthplace.png",
         "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg"
       ],
       hours: "09:00 - 17:00",
